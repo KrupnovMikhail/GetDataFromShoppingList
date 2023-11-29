@@ -26,5 +26,7 @@
                 android:value="" />
         </activity>
     </application>
-
+    <queries>
+        <provider android:authorities="com.krupnov.shoppinglist" />
+    </queries>
 </manifest>
